@@ -1,0 +1,403 @@
+
+#stacks_in_59_page4 .stacks_left {
+	float:left;
+	width:36%;
+}
+
+#stacks_in_59_page4 .stacks_right {
+	float:right;
+	width:62%;
+}
+#stacks_out_62_page4 {
+	width: 250px;
+	margin-left:0;
+}
+
+#stacks_in_62_page4 {
+	margin: 10px 0px 0px 0px;
+}
+
+#stacks_in_27_page4 {
+	margin: 23px 0px 0px 10px;
+}
+
+#stacks_in_59_page4 {
+	background-color: #990000;
+	padding: 0px 0px 10px 0px;
+}
+/* Symfonip (c) - 2011 - Slide MP3 Stack CSS v1.0.2 now new Audio Player*/
+@charset "UTF-8";
+@font-face {
+  font-family: 'mb_audio_fontRegular';
+  src: url('../files/symaudiomp3/mbAudioFont/mb_audio_font.eot');
+  src: url('../files/symaudiomp3/mbAudioFont/mb_audio_font.eot?#iefix') format('embedded-opentype'),
+       url('../files/symaudiomp3/mbAudioFont/mb_audio_font.woff') format('woff'),
+       url('../files/symaudiomp3/mbAudioFont/mb_audio_font.ttf')  format('truetype'),
+       url('../files/symaudiomp3/mbAudioFont/mb_audio_font-webfont_svg#webfontywr4YLri') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DroidSansMonoRegular';
+  src:url('../files/symaudiomp3/DroidSansMono/DroidSansMono-webfont.eot');
+  src: url('../files/symaudiomp3/DroidSansMono/DroidSansMono-webfont.eot?#iefix') format('embedded-opentype'),
+       url('../files/symaudiomp3/DroidSansMono/DroidSansMono-webfont.woff') format('woff'),
+       url('../files/symaudiomp3/DroidSansMono/DroidSansMono-webfont.ttf')  format('truetype'),
+       url('../files/symaudiomp3/DroidSansMono/DroidSansMono-webfont_svg#webfontGzFJ3WpO') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.mbMiniPlayer span{
+  font:16px/20px "mb_audio_fontRegular","Webdings",sans-serif;
+}
+a.audio{
+  display:none;
+}
+.mbMiniPlayer{}
+.mbMiniPlayer table{
+  -moz-border-radius:5px;
+  -webkit-border-radius:8px;
+  border-radius:5px;
+  margin:5px;
+  padding: 0;
+  line-height: 1em;
+  border-collapse: none!important;
+}
+
+.mbMiniPlayer.shadow table{
+  border:1px solid transparent;
+  -moz-box-shadow:#ccc 0px 0px 5px;
+  -webkit-box-shadow:#ccc 0px 0px 5px;
+  box-shadow:#ccc 0px 0px 5px;
+}
+
+.mbMiniPlayer td{
+  margin:0;
+  padding:0;
+  vertical-align:bottom;
+}
+
+.jp-progress{
+  position:relative;
+  background-color: #fff;
+  height:8px;
+  margin:2px;
+  margin-top:0;
+  top:0;
+  -moz-box-sizing:border-box;
+  cursor:pointer;
+}
+/* Added by Ronan to correct play pause issue */
+div.mbMiniPlayer table tbody tr td:first-child {
+	width: 29px;
+}
+/* Added by Ronan to correct timer alignment issue */
+div.mbMiniPlayer table tbody tr td:nth-child(4) span {
+	height: 20px;
+	margin-top: -2px;
+	vertical-align: middle;
+	height: 26px;
+	line-height: 28px;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+.jp-load-bar{
+  background-color: #e9e6e6;
+/*background-image:-moz-linear-gradient(40% 10% 270deg,#ccc, #ffffff, #ddd 100%);*/
+  height:6px;
+  -moz-box-sizing:border-box;
+}
+.jp-play-bar{
+  background-color:black;
+  background-image:-moz-linear-gradient(85% 66% 90deg,#191919, #525252, #C7C7C7 100%);
+  background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#7D7D7D), to(#262626), color-stop(.6,#333333));
+  height:6px;
+  -moz-box-sizing:border-box;
+}
+.mbMiniPlayer td.controlsBar{
+  background-color:#ccc;
+  background-image:-moz-linear-gradient(19% 100% 90deg,#FFFFFF, #FFFFFF, #EBEBEB 100%);
+  background-image:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#DEDEDE), to(#FFFFFF), color-stop(.6,#FFFFFF));
+  margin:0;
+  padding:0;
+  cursor:default !important;
+  box-shadow:inset 1px 1px 2px #999;
+  -moz-box-shadow:inset 1px 1px 3px #999;
+  -webkit-box-shadow:inset 1px 1px 2px #999;
+}
+.mbMiniPlayer .controls{
+  margin:1px;
+  display:none;
+  width:1px;
+  *border:1px solid gray;
+  height:100%;
+  -moz-box-sizing:border-box;
+  overflow:hidden;
+  white-space:nowrap;
+}
+.mbMiniPlayer span{
+  display:inline-block;
+  padding:3px;
+  width:20px;
+  height:20px;
+  color:white;
+  text-align:center;
+  text-shadow: 1px -1px 1px #000;
+  background-image:-moz-linear-gradient(100% 100% 110deg,rgba(100, 100, 100,0.5), transparent);
+  background-image:-webkit-gradient(linear, 0% 5%, 85% 100%, from(transparent), to(rgba(100, 100, 100,0.5)));
+}
+.mbMiniPlayer span.title{
+  position:relative;
+  color:#333;
+  font:10px/12px "DroidSansMonoRegular", sans-serif!important;
+  text-shadow: none!important;
+  letter-spacing:1px;
+  width:100%;
+  height:8px;
+  top:-5px;
+  margin:0;
+  float: none;
+  background:transparent;
+  text-align:left;
+  cursor:default !important;
+}
+.mbMiniPlayer span.rew{
+  width:1px;
+  cursor:pointer;
+}
+.mbMiniPlayer span.volumeLevel{
+}
+.mbMiniPlayer span.volumeLevel a{
+  position:relative;
+  display:inline-block;
+  margin:0;
+  margin-right:0px;
+	border-right:1px solid rgba(0,0,0,0.4);
+  width:2px;
+  padding:0;
+  background-color:white;
+  height:0;
+  vertical-align:bottom;
+  opacity:.1;
+  cursor:pointer;
+}
+.mbMiniPlayer span.volumeLevel a.sel{
+/*
+  -moz-box-shadow:#000 0px 0px 1px;
+  -webkit-box-shadow:#000 0px 0px 1px;
+  box-shadow:#000 0px 0px 1px;
+*/
+}
+.mbMiniPlayer span.time{
+  width:1px;
+  font:11px/20px sans-serif;
+  overflow:hidden;
+  white-space:nowrap;
+  cursor:default !important;
+  /*
+    background-image:none;
+    background-color:#d9d9d9 !important;
+  */
+  text-shadow: 0 0 2px #999!important;
+}
+
+.mbMiniPlayer span.play{
+  -moz-border-radius:0 5px 5px 0;
+  -webkit-border-top-right-radius:5px;
+  -webkit-border-bottom-right-radius:5px;
+  border-radius:0 5px 5px 0;
+  cursor:pointer;
+}
+.mbMiniPlayer span.volume{
+  -moz-border-radius:5px 0 0 5px;
+  -webkit-border-top-left-radius:5px;
+  -webkit-border-bottom-left-radius:5px;
+  border-radius:5px 0 0 5px;
+  cursor:pointer;
+	padding-left:6px;
+	padding-right:2px;
+}
+
+/*BLACK ----------------------------------------*/
+.mbMiniPlayer.black span{
+  background-color:#666;
+  text-shadow: 1px -1px 1px #000;
+}
+.mbMiniPlayer.black span.title{
+	background-color: transparent;
+}
+
+.mbMiniPlayer.black span.play{
+  border-left:1px solid #333;
+}
+
+.mbMiniPlayer.black span.volume{
+  border-right:1px solid #999;
+}
+
+.mbMiniPlayer.black span.volume.mute{
+  color: #999999;
+}
+
+/*GRAY ----------------------------------------*/
+.mbMiniPlayer.gray span{
+  background-color:#ccc;
+  text-shadow: 1px -1px 1px #666;
+}
+
+.mbMiniPlayer.gray span.play{
+  border-left:1px solid #666;
+}
+
+.mbMiniPlayer.gray span.volume{
+  border-right:1px solid #bdbcbc;
+}
+
+.mbMiniPlayer.gray span.volume.mute{
+  color: #cccccc;
+}
+.mbMiniPlayer.gray span.title{
+	background-color: transparent;
+}
+
+/*BLUE ----------------------------------------*/
+.mbMiniPlayer.blue span{
+  background-color: #0099ff;
+  text-shadow: 1px -1px 1px #003366;
+}
+
+.mbMiniPlayer.blue span.play{
+  border-left:1px solid #034383;
+}
+
+.mbMiniPlayer.blue span.volume{
+  border-right:1px solid #18a2fe;
+}
+.mbMiniPlayer.blue span.volume.mute{
+  color: #98bff9;
+}
+.mbMiniPlayer.blue span.title{
+	background-color: transparent;
+}
+
+/*ORANGE ----------------------------------------*/
+.mbMiniPlayer.orange span{
+  background-color: #ff9900;
+  text-shadow: 1px -1px 1px #996600;
+}
+
+.mbMiniPlayer.orange span.play{
+  border-left:1px solid #8c5002;
+}
+
+.mbMiniPlayer.orange span.volume{
+  border-right:1px solid #fea827;
+}
+
+.mbMiniPlayer.orange span.volume.mute{
+  color: #eec957;
+}
+.mbMiniPlayer.orange span.title{
+	background-color: transparent;
+}
+/*RED ----------------------------------------*/
+.mbMiniPlayer.red span{
+  background-color: #cc0033;
+  text-shadow: 1px -1px 1px #660000;
+}
+
+.mbMiniPlayer.red span.play{
+  border-left:1px solid #660000;
+}
+
+.mbMiniPlayer.red span.volume{
+  border-right:1px solid #dd033a;
+}
+
+.mbMiniPlayer.red span.volume.mute{
+  color: #df3862;
+}
+.mbMiniPlayer.red span.title{
+	background-color: transparent;
+}
+
+/*GREEN ----------------------------------------*/
+.mbMiniPlayer.green span{
+  background-color: #339900;
+  text-shadow: 1px -1px 1px #003333;
+}
+
+.mbMiniPlayer.green span.play{
+  border-left:1px solid #336600;
+}
+
+.mbMiniPlayer.green span.volume{
+  border-right:1px solid #38a700;
+}
+
+.mbMiniPlayer.green span.volume.mute{
+  color: #2aba5a;
+}
+
+.mbMiniPlayer.green span.title{
+	background-color: transparent;
+}
+
+/* end of colors for player */
+
+#stacks_in_44_page4 .y1
+{
+	display: block;
+	overflow: hidden;
+	width: 80px;
+	height: 100%;
+}
+#stacks_in_44_page4 .y2
+{
+	display: block;
+	overflow: hidden;
+	width: 80px;
+	height: 100%;
+}
+#stacks_in_44_page4 .y3
+{
+	display: block;
+	overflow: hidden;
+	width: 100px;
+	height: 100%;
+}
+#stacks_in_44_page4 .y4
+{
+	display: block;
+	overflow: hidden;
+	width: 100px;
+	height: 100%;
+}
+#stacks_in_44_page4 .y5
+{
+	display: block;
+	overflow: hidden;
+	width: 140px;
+	height: 100%;
+}
+#stacks_in_51_page4 {
+	margin: 10px 0px 0px 0px;
+}
+
+#stacks_in_29_page4 {
+	margin: 10px 0px 0px 0px;
+}
+
+#stacks_in_37_page4 {
+	margin: 10px 0px 0px 0px;
+}
+
+#stacks_in_40_page4 {
+	margin: 18px 0px 0px 0px;
+}
+
+#stacks_in_0_page4 {
+	padding: 5px 0px 0px 5px;
+}

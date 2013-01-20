@@ -20,6 +20,8 @@
 </head>
 
 <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
 
 <div class="wrapper">
     <div class="menu">
@@ -29,50 +31,11 @@
             <li><a href="#shows">Shows</a></li>
             <li><a href="#music">Music</a></li>
             <li><a href="#videos">Videos</a></li>
+            <li><a href="#share">Share</a></li>
         </ul>
     </div>
 
     <div class="player">
-        <div id="jquery_jplayer_1" class="jp-jplayer"></div>
-        <div id="jp_container_1" class="jp-audio">
-            <div class="jp-type-single">
-                <div class="jp-gui jp-interface">
-                    <ul class="jp-controls">
-                        <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
-                        <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
-                        <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
-                        <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
-                        <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
-                        <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
-                    </ul>
-                    <div class="jp-progress">
-                        <div class="jp-seek-bar">
-                            <div class="jp-play-bar"></div>
-                        </div>
-                    </div>
-                    <div class="jp-volume-bar">
-                        <div class="jp-volume-bar-value"></div>
-                    </div>
-                    <div class="jp-time-holder">
-                        <div class="jp-current-time"></div>
-                        <div class="jp-duration"></div>
-                        <ul class="jp-toggles">
-                            <li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
-                            <li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="jp-title">
-                    <ul>
-                        <li id="AyAy">&#9654; &nbsp; Ay Ay</li>
-                        <li id="Friday-Day">&#9654; &nbsp; Friday Day</li>
-                        <li id="NeverBeTheSame">&#9654; &nbsp; Never Be The Same</li>
-                        <li id="LightsCameraAction">&#9654; &nbsp; Lights Camera Action</li>
-                        <li id="Go-Team-Go">&#9654; &nbsp; Go Team Go</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
     </div>
 
     <div id="about" class="header first">About</div>
@@ -101,24 +64,51 @@
     <div id="music" class="header">Music</div>
     <div class="section music">
         <div class="item">
-            <a songid="AyAy">Ay Ay</a>
-        </div>
-        <div class="item">
-            <a songid="Friday-Day">Friday Day</a>
-        </div>
-        <div class="item">
-            <a songid="NeverBeTheSame" >Never Be The Same</a>
-        </div>
-        <div class="item">
-            <a songid="LightsCameraAction">Lights Camera Action</a>
-        </div>
-        <div class="item">
-            <a songid="Go-Team-Go" >Go Team Go</a>
+            <div id="jquery_jplayer_1" class="jp-jplayer"></div>
+            <div id="jp_container_1" class="jp-audio">
+                <div class="jp-type-single">
+                    <div class="jp-gui jp-interface">
+                        <ul class="jp-controls">
+                            <li><a href="javascript:;" class="jp-play" tabindex="1">play</a></li>
+                            <li><a href="javascript:;" class="jp-pause" tabindex="1">pause</a></li>
+                            <li><a href="javascript:;" class="jp-stop" tabindex="1">stop</a></li>
+                            <li><a href="javascript:;" class="jp-mute" tabindex="1" title="mute">mute</a></li>
+                            <li><a href="javascript:;" class="jp-unmute" tabindex="1" title="unmute">unmute</a></li>
+                            <li><a href="javascript:;" class="jp-volume-max" tabindex="1" title="max volume">max volume</a></li>
+                        </ul>
+                        <div class="jp-progress">
+                            <div class="jp-seek-bar">
+                                <div class="jp-play-bar"></div>
+                            </div>
+                        </div>
+                        <div class="jp-volume-bar">
+                            <div class="jp-volume-bar-value"></div>
+                        </div>
+                        <div class="jp-time-holder">
+                            <div class="jp-current-time"></div>
+                            <div class="jp-duration"></div>
+                            <ul class="jp-toggles">
+                                <li><a href="javascript:;" class="jp-repeat" tabindex="1" title="repeat">repeat</a></li>
+                                <li><a href="javascript:;" class="jp-repeat-off" tabindex="1" title="repeat off">repeat off</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="jp-title">
+                        <ul>
+                            <li id="AyAy">&#9654; &nbsp; Ay Ay</li>
+                            <li id="Friday-Day">&#9654; &nbsp; Friday Day</li>
+                            <li id="NeverBeTheSame">&#9654; &nbsp; Never Be The Same</li>
+                            <li id="LightsCameraAction">&#9654; &nbsp; Lights Camera Action</li>
+                            <li id="Go-Team-Go">&#9654; &nbsp; Go Team Go</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
     <div id="videos" class="header">Videos</div>
-    <div class="section first">
+    <div class="section">
         <div class="item">
             <iframe class="video" width="560" height="315" src="http://www.youtube.com/embed/EC_YLdFVSVk?enablejsapi=1&autoplay=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
         </div>
@@ -129,9 +119,31 @@
             <iframe class="video" width="560" height="315" src="http://www.youtube.com/embed/Vrh2bEzZQ_c?enablejsapi=1&autoplay=0&wmode=transparent" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
+
+
+    <div id="share" class="header">Share</div>
+    <div class="section">
+        <div class="item">
+            <div class="fb-like" data-href="http://www.facebook.com/beatrootofficial" data-send="false" data-width="370" data-show-faces="false" data-colorscheme="dark"></div>
+            <a href="https://twitter.com/BeatrootNews" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @BeatrootNews</a>
+        </div>
+        <div class="item" style="height:60px;">
+            <table align="right" cellpadding="0" cellspacing="0" height=100%>
+                <tr>
+                    <td width=112><a href="http://twitter.com/BeatrootNews" target="_blank"><img class='imageStyle' src='images/tw.png' width='54' height='54' /></a></td>
+                    <td width=112><a href="http://www.facebook.com/beatrootofficial" target="_blank"><img class='imageStyle' src='images/fb.png' width='54' height='54' /></a></td>
+                    <td width=112><a href="http://soundcloud.com/beatrootofficial" target="_blank"><img class='imageStyle' src='images/sc.png' width='70' height='70' /></a></td>
+                    <td width=112><a href="http://www.youtube.com/officialbeatroot" target="_blank"><img class='imageStyle' src='images/yt.png' width='92' height='54' /></a></td>
+                    <td width=112><a href="http://beatrootofficial.tumblr.com/" target="_blank"><img class='imageStyle' src='images/tm.png' width='108' height='30' /></a></td>
+                </tr>
+            </table>
+        </div>
+    </div>
+
 </div>
 
 
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <script type="text/javascript" src="jPlayer/jquery.jplayer.min.js" ></script>
 <script type="text/javascript" src="application.js" ></script>
 </body>

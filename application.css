@@ -65,7 +65,7 @@ div.header{
     font-size:18px;
     font-weight: bold;
     padding: 40px 0 0 5px;
-    margin-left: 20%;
+    margin-left: 300px;
 }
 div.section{
     width:560px;
@@ -73,7 +73,7 @@ div.section{
     background:rgba(0,0,0,0.8);
     border-radius: 5px;
     margin:10px 0;
-    margin-left: 20%;
+    margin-left: 300px;
 }
 
 div.item:first-of-type{
@@ -87,16 +87,19 @@ div.item:last-of-type{
 }
 
 
+div.jp-title {
+    margin-top:10px;
+}
 div.jp-title ul li{
     text-align:left;
     padding: 10px 0;
     cursor: pointer;
 }
 div.jp-title ul li:hover{
-    color:#111;
+    color:#fff;
 }
 div.jp-title ul li.selected{
-    color:#111;
+    color:#009de0;
 }
 
 

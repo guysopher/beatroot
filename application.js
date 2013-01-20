@@ -3,7 +3,7 @@ $(function(){
     $('#menu li a').click(function(){
         $('html, body').animate({
             scrollTop: $($(this).attr('href')).offset().top
-        }, 2000);
+        }, 1000);
     })
 
     $("#jquery_jplayer_1").jPlayer({
