@@ -2,14 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167dc8ac-0e78-42d2-8e12-19df3278c364" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/._1200x400" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/._600x200" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/._BeatrootArt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/Square/._Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/1200x400/._Beatroot_WebBanner_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/600x200/._Beatroot_WebBanner_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/._Square" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/Square/Beatroot_WebBanner_16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/1200x400/Beatroot_WebBanner_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/600x200/Beatroot_WebBanner_23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/BeatrootArt/beatroot4_digital2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-blue-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-green-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/img/pause-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/img/pause-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/img/pause-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-orange-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/pause-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/img/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/img/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/img/pause.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-blue-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-green-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/img/play-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/img/play-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/img/play-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-orange-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/img/play-orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/img/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/stacks_image_63 (1).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Beatroot_Art/__MACOSX/BeatrootArt/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors-blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors-green.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors-orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sc-player-artwork.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sc-player-minimal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sc-player-red.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/sc-player-standard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/js/sc-player.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/js/soundcloud.player.api.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/standards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/standards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/standards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/standards.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/structure-horizontal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-standard/structure-vertical.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-artwork/structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-minimal/structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/soundcloud/css/sc-player-red/structure.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.css" afterPath="$PROJECT_DIR$/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.js" afterPath="$PROJECT_DIR$/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css" afterPath="$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="beatroot.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="167dc8ac-0e78-42d2-8e12-19df3278c364" time="1361632484015" ignored="false" />
+    <file path="/application.css" changelist="167dc8ac-0e78-42d2-8e12-19df3278c364" time="1361630886823" ignored="false" />
+    <file path="/a.dummy" changelist="167dc8ac-0e78-42d2-8e12-19df3278c364" time="1361020994325" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,23 +209,40 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="136" column="33" selection-start="7166" selection-end="7166" vertical-scroll-proportion="-5.4761906">
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="81.48148">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jplayer.blue.monday.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
+      <file leaf-file-name="sc-player-standard.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="693" selection-end="693" vertical-scroll-proportion="-4.016667">
+            <state line="2" column="38" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="48" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structure-horizontal.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard/structure-horizontal.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="112" column="33" selection-start="1717" selection-end="1717" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +251,7 @@
       <file leaf-file-name="application.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="40" selection-start="562" selection-end="562" vertical-scroll-proportion="0.28969958">
+            <state line="109" column="0" selection-start="3502" selection-end="3502" vertical-scroll-proportion="0.7577389">
               <folding />
             </state>
           </provider>
@@ -57,7 +260,16 @@
       <file leaf-file-name="application.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="17" selection-start="1683" selection-end="1683" vertical-scroll-proportion="-9.5">
+            <state line="47" column="57" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jplayer.blue.monday.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="14" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,6 +285,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
   </component>
@@ -80,17 +297,20 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css" />
-        <option value="$PROJECT_DIR$/application.css" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/soundcloud/css/sc-player-standard.css" />
+        <option value="$PROJECT_DIR$/soundcloud/css/sc-player-standard/structure-horizontal.css" />
+        <option value="$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors.css" />
         <option value="$PROJECT_DIR$/application.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/application.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="width" value="1535" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -126,62 +346,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jPlayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beatroot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jPlayer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -194,6 +358,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../MomentoroViewer" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/soundcloud/css/sc-player-standard" />
+    </key>
+  </component>
   <component name="RunManager" selected="Rails.Unnamed">
     <configuration default="true" type="RailsRunConfigurationType" factoryName="Rails">
       <predefined_log_file id="RUBY_RAILS_SERVER" enabled="true" />
@@ -205,11 +374,13 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
@@ -228,11 +399,13 @@
       <CAPISTRANO_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_NAME" VALUE="" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_ARGS" VALUE="" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_STAGE" VALUE="" />
@@ -248,11 +421,13 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
@@ -276,11 +451,13 @@
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
@@ -302,11 +479,13 @@
         <env name="ANSICON" value="" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
@@ -323,7 +502,7 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
       <JSDebuggerConfigurationSettings>
         <option name="engineId" value="embedded" />
         <option name="fileUrl" />
@@ -339,11 +518,13 @@
       <CAPISTRANO_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_NAME" VALUE="" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_TASK_ARGS" VALUE="" />
       <CAPISTRANO_RUN_CONFIG_SETTINGS_ID NAME="CAPISTRANO_STAGE" VALUE="" />
@@ -374,11 +555,13 @@
         <env name="ANSICON" value="" />
       </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
@@ -405,11 +588,13 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
       <envs />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
         <COVERAGE_PATTERN ENABLED="true">
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
@@ -439,14 +624,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <frame x="65" y="24" width="1535" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21218836" sideWeight="0.9986702" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22498322" sideWeight="0.6705128" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.9986532" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -455,7 +640,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.9986532" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -494,6 +679,9 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -514,18 +702,44 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="0" selection-start="4660" selection-end="4660" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="113" column="124" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.js">
+    <entry file="file://$PROJECT_DIR$/application.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+        <state line="79" column="51" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="14" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="17" selection-start="1683" selection-end="1683" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="0" selection-start="4660" selection-end="4660" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -540,15 +754,6 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="66" column="28" selection-start="3080" selection-end="3080" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="24" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -560,32 +765,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application.css">
+    <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="17" selection-start="1683" selection-end="1683" vertical-scroll-proportion="-9.5">
+        <state line="31" column="14" selection-start="772" selection-end="772" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jPlayer/css/jplayer.blue.monday.css">
+    <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard/structure-horizontal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="693" selection-end="693" vertical-scroll-proportion="-4.016667">
+        <state line="112" column="33" selection-start="1717" selection-end="1717" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard/colors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="48" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soundcloud/css/sc-player-standard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="38" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="136" column="33" selection-start="7166" selection-end="7166" vertical-scroll-proportion="-5.4761906">
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#11;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="81.48148">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="57" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="40" selection-start="562" selection-end="562" vertical-scroll-proportion="0.28969958">
+        <state line="109" column="0" selection-start="3502" selection-end="3502" vertical-scroll-proportion="0.7577389">
           <folding />
         </state>
       </provider>

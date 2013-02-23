@@ -29,7 +29,7 @@ div.jp-video {
 	color: #ccc;
 }
 div.jp-audio {
-	width:560px;
+	width:100%;
 }
 div.jp-audio-stream {
 	width:182px;
