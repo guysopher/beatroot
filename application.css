@@ -64,10 +64,19 @@ a:hover{
 
 #streams{
     position:fixed;
-    top:0;
-    right:0;
+    top:10px;
+    right:10px;
     width:300px;
     height:100%;
+    margin-bottom:-10px;
+}
+
+#shares{
+    position:fixed;
+    bottom:10px;
+    right:10px;
+    width:300px;
+    height:50px;
 }
 
 #menu{
@@ -123,6 +132,8 @@ div.item:last-of-type{
 
 img.imageStyle{
     -webkit-filter: opacity(0.6);
+    width:70px;
+    height:auto;
 }
 img.imageStyle:hover{
     -webkit-filter: none;

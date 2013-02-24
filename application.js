@@ -121,8 +121,9 @@ function resize(){
         width: (sWidth - 270) + 'px'
     });
 
-    $('#streams').html('<a style="" class="twitter-timeline" data-dnt="true" width="300" height="' + parseInt((wHeight/2)-10) + '" href="https://twitter.com/BeatrootNews" data-widget-id="302822508762107904">Tweets by @BeatrootNews</a>' +
-    '<div style="margin-top:20px;" class="fb-like-box" data-href="http://www.facebook.com/beatrootofficial" data-height="' + parseInt((wHeight/2)-10) + '" data-width="300" data-show-faces="true" data-colorscheme="dark" data-stream="true" data-border-color="#333333" data-header="true"></div>');
-
+    if (!$('#streams').html()){
+        $('#streams').html('<a style="margin:10px;" class="twitter-timeline" data-dnt="true" width="300" height="' + parseInt((wHeight/2)-60) + '" href="https://twitter.com/BeatrootNews" data-widget-id="302822508762107904">Tweets by @BeatrootNews</a>' +
+        '<div style="margin:10px 0;" class="fb-like-box" data-href="http://www.facebook.com/beatrootofficial" data-height="' + parseInt((wHeight/2)-60) + '" data-width="300" data-show-faces="true" data-colorscheme="dark" data-stream="true" data-header="true"></div>');
+    }
 
 }
